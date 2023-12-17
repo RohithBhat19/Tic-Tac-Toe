@@ -6,9 +6,8 @@ A simple Tic-Tac-Toe game built with React.
 
 - [Demo](#demo)
 - [Features](#features)
-- [Installation](#installation)
 - [Technologies Used](#technologies-used)
-- [License](#license)
+
 
 ## Demo
 
@@ -16,6 +15,10 @@ A simple Tic-Tac-Toe game built with React.
 
 
 [Live Demo](https://amazing-frangollo-8ab51b.netlify.app/)
+## Technologies Used
+- [![React](https://img.shields.io/badge/React-18.0.0-blue.svg)](https://reactjs.org/)
+- [![CSS](https://img.shields.io/badge/CSS-3-orange.svg)](https://www.w3.org/Style/CSS/Overview.en.html)
+
 
 ## Features
 
