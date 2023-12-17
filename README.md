@@ -14,7 +14,7 @@ A simple Tic-Tac-Toe game built with React.
 
 ![Tic-Tac-Toe Demo](https://github.com/RohithBhat19/TicTacToe/assets/tic_tac_toe_demo.gif)
 
-[Live Demo](https://your-live-demo-link.com/)
+[Live Demo](https://amazing-frangollo-8ab51b.netlify.app/)
 
 ## Features
 
